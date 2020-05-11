@@ -1,0 +1,15 @@
+print("modül eklendi")
+number = 10
+numbers = [1,2,3,4,5]
+person ={
+    "name":"Ali",
+    "age":"25",
+    "city":"istanbul"
+}
+def func(x):
+    """ fonksiyonun bilgisidir"""
+    print(f'x:{x}')
+
+class Person():
+    def speak(self):
+        print('konuşslım')
